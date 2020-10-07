@@ -1,0 +1,4 @@
+alpfa
+beta
+gamma
+delta
